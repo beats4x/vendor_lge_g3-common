@@ -139,7 +139,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
     vendor/lge/d851/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/d851/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
-    vendor/lge/d851/proprietary/lib/libvss_dmi_qcci.so:system/lib/libvss_dmi_qcci.so \
+\    vendor/lge/d851/proprietary/lib/libvss_dmi_qcci.so:system/lib/libvss_dmi_qcci.so \
     vendor/lge/d851/proprietary/lib/libvss_gnss_qcci.so:system/lib/libvss_gnss_qcci.so \
     vendor/lge/d851/proprietary/lib/libvss_ims_qcci.so:system/lib/libvss_ims_qcci.so \
     vendor/lge/d851/proprietary/lib/libvss_nv_core.so:system/lib/libvss_nv_core.so \
