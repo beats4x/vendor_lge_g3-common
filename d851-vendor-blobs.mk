@@ -70,6 +70,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/lge/d851/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/lge/d851/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/lge/d851/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/d851/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
     vendor/lge/d851/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/lge/d851/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
@@ -142,6 +143,21 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/lge/d851/proprietary/app/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel.apk \
     vendor/lge/d851/proprietary/app/shutdownlistener.apk:system/app/shutdownlistener.apk \
+    vendor/lge/d851/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
+    vendor/lge/d851/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
+    vendor/lge/d851/proprietary/bin/cnd:system/bin/cnd \
+    vendor/lge/d851/proprietary/bin/drmdiagapp:system/bin/drmdiagapp \
+    vendor/lge/d851/proprietary/bin/efsks:system/bin/efsks \
+    vendor/lge/d851/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/lge/d851/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
+    vendor/lge/d851/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
+    vendor/lge/d851/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
+    vendor/lge/d851/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
+    vendor/lge/d851/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/lge/d851/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
+    vendor/lge/d851/proprietary/bin/qcks:system/bin/qcks \
+    vendor/lge/d851/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
+    vendor/lge/d851/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/lge/d851/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/d851/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/d851/proprietary/bin/radish:system/bin/radish \
