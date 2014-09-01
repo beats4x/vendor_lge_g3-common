@@ -31,6 +31,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/lge/d851/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/lge/d851/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/Bluetooth_cal.acdb:system/etc/acdbdata/g3/Bluetooth_cal.acdb \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/General_cal.acdb:system/etc/acdbdata/g3/General_cal.acdb \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/Global_cal.acdb:system/etc/acdbdata/g3/Global_cal.acdb \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/Handset_cal.acdb:system/etc/acdbdata/g3/Handset_cal.acdb \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/Hdmi_cal.acdb:system/etc/acdbdata/g3/Hdmi_cal.acdb \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/Headset_cal.acdb:system/etc/acdbdata/g3/Headset_cal.acdb \
+    vendor/lge/d851/proprietary/etc/acdbdata/g3/Speaker_cal.acdb:system/etc/acdbdata/g3/Speaker_cal.acdb \
     vendor/lge/d851/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/lge/d851/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/lge/d851/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
@@ -84,6 +91,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/lge/d851/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/d851/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/d851/proprietary/lib/hw/audio_policy.msm8974.so:system/lib/hw/audio_policy.msm8974.so \
+    vendor/lge/d851/proprietary/lib/hw/bplus.default.so:system/lib/hw/bplus.default.so \
+    vendor/lge/d851/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
+    vendor/lge/d851/proprietary/lib/hw/copybit.msm8974.so:system/lib/hw/copybit.msm8974.so \
+    vendor/lge/d851/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/lge/d851/proprietary/lib/hw/lights.msm8974.so:system/lib/hw/lights.msm8974.so \
+    vendor/lge/d851/proprietary/lib/hw/nfc_lg.default.so:system/lib/hw/nfc_lg.default.so \
     vendor/lge/d851/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/lge/d851/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/lge/d851/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
