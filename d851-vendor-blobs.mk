@@ -194,13 +194,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/lge/d851/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/lge/d851/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/Bluetooth_cal.acdb:system/etc/acdbdata/g3/Bluetooth_cal.acdb \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/General_cal.acdb:system/etc/acdbdata/g3/General_cal.acdb \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/Global_cal.acdb:system/etc/acdbdata/g3/Global_cal.acdb \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/Handset_cal.acdb:system/etc/acdbdata/g3/Handset_cal.acdb \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/Hdmi_cal.acdb:system/etc/acdbdata/g3/Hdmi_cal.acdb \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/Headset_cal.acdb:system/etc/acdbdata/g3/Headset_cal.acdb \
-    vendor/lge/d851/proprietary/etc/acdbdata/g3/Speaker_cal.acdb:system/etc/acdbdata/g3/Speaker_cal.acdb \
     vendor/lge/d851/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/lge/d851/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/lge/d851/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
@@ -258,9 +251,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d851/proprietary/bin/quipc_igsn:system/bin/quipc_igsn \
     vendor/lge/d851/proprietary/bin/quipc_main:system/bin/quipc_main \
     vendor/lge/d851/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
+    vendor/lge/d851/proprietary/lib/libaudioflinger.so:system/lib/libaudioflinger.so \
     vendor/lge/d851/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/lge/d851/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/d851/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/d851/proprietary/lib/libdashplayer.so:system/lib/libdashplayer.so \
+    vendor/lge/d851/proprietary/lib/libalmcascore.so:system/lib/libalmcascore.so \
     vendor/lge/d851/proprietary/lib/hw/audio_policy.msm8974.so:system/lib/hw/audio_policy.msm8974.so \
     vendor/lge/d851/proprietary/lib/hw/bplus.default.so:system/lib/hw/bplus.default.so \
     vendor/lge/d851/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
