@@ -205,9 +205,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/lge/g3-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/lge/g3-common/proprietary/etc/firmware/cpp_firmware_v1_2_1.fw:system/etc/firmware/cpp_firmware_v1_2_1.fw \
-    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd.bin:system/etc/firmware/fw_bcmdhd.bin \
-    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
-    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_mfg.bin:system/etc/firmware/fw_bcmdhd_mfg.bin \
+    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd.bin:system/vendor/etc/firmware/fw_bcmdhd.bin \
+    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/vendor/etc/firmware/fw_bcmdhd_apsta.bin \
+    vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_mfg.bin:system/vendor/etc/firmware/fw_bcmdhd_mfg.bin \
     vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b00:system/etc/firmware/dxhdcp2.b00 \
     vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b01:system/etc/firmware/dxhdcp2.b01 \
     vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b02:system/etc/firmware/dxhdcp2.b02 \
