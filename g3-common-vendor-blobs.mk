@@ -254,12 +254,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/lge/g3-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/g3-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/g3-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/g3-common/proprietary/lib/libdashplayer.so:system/lib/libdashplayer.so \
     vendor/lge/g3-common/proprietary/lib/libalmcascore.so:system/lib/libalmcascore.so \
     vendor/lge/g3-common/proprietary/lib/hw/bplus.default.so:system/lib/hw/bplus.default.so \
     vendor/lge/g3-common/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
     vendor/lge/g3-common/proprietary/lib/hw/copybit.msm8974.so:system/lib/hw/copybit.msm8974.so \
-    vendor/lge/g3-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/lge/g3-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.msm8974.so \
     vendor/lge/g3-common/proprietary/lib/hw/lights.msm8974.so:system/lib/hw/lights.msm8974.so \
     vendor/lge/g3-common/proprietary/lib/hw/nfc_lg.default.so:system/lib/hw/nfc_lg.default.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
