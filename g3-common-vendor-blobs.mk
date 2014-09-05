@@ -237,6 +237,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/g3-common/proprietary/lib/libdashplayer.so:system/lib/libdashplayer.so \
     vendor/lge/g3-common/proprietary/lib/libalmcascore.so:system/lib/libalmcascore.so \
+    vendor/lge/g3-common/proprietary/lib/libalmcaswrap.so:system/lib/libalmcaswrap.so \
     vendor/lge/g3-common/proprietary/lib/hw/bplus.default.so:system/lib/hw/bplus.default.so \
     vendor/lge/g3-common/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
     vendor/lge/g3-common/proprietary/lib/hw/copybit.msm8974.so:system/lib/hw/copybit.msm8974.so \
