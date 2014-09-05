@@ -208,18 +208,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd.bin:system/vendor/etc/firmware/fw_bcmdhd.bin \
     vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/vendor/etc/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/g3-common/proprietary/etc/firmware/fw_bcmdhd_mfg.bin:system/vendor/etc/firmware/fw_bcmdhd_mfg.bin \
-    vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b00:system/etc/firmware/dxhdcp2.b00 \
-    vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b01:system/etc/firmware/dxhdcp2.b01 \
-    vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b02:system/etc/firmware/dxhdcp2.b02 \
-    vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.b03:system/etc/firmware/dxhdcp2.b03 \
-    vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.mdt:system/etc/firmware/dxhdcp2.mdt \
     vendor/lge/g3-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/lge/g3-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/lge/g3-common/proprietary/etc/firmware/tqs.b00:system/etc/firmware/tqs.b00 \
-    vendor/lge/g3-common/proprietary/etc/firmware/tqs.b01:system/etc/firmware/tqs.b01 \
-    vendor/lge/g3-common/proprietary/etc/firmware/tqs.b02:system/etc/firmware/tqs.b02 \
-    vendor/lge/g3-common/proprietary/etc/firmware/tqs.b03:system/etc/firmware/tqs.b03 \
-    vendor/lge/g3-common/proprietary/etc/firmware/tqs.mdt:system/etc/firmware/tqs.mdt \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
