@@ -365,3 +365,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/lge/g3-common/proprietary/vendor/lib/liblistensoundmodel.so:system/vendor/lib/liblistensoundmodel.so \
     vendor/lge/g3-common/proprietary/bin/hvdcp:system/bin/hvdcp
+
+PRODUCT_COPY_FILES += \
+    vendor/lge/g3-common/proprietary/lib/liblgderp.so:system/lib/liblgderp.so \
+    vendor/lge/g3-common/proprietary/lib/libril.so:system/lib/libril.so
