@@ -215,11 +215,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/firmware/dxhdcp2.mdt:system/etc/firmware/dxhdcp2.mdt \
     vendor/lge/g3-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/lge/g3-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/lge/g3-common/proprietary/etc/firmware/keymaster.b00:system/etc/firmware/keymaster.b00 \
-    vendor/lge/g3-common/proprietary/etc/firmware/keymaster.b01:system/etc/firmware/keymaster.b01 \
-    vendor/lge/g3-common/proprietary/etc/firmware/keymaster.b02:system/etc/firmware/keymaster.b02 \
-    vendor/lge/g3-common/proprietary/etc/firmware/keymaster.b03:system/etc/firmware/keymaster.b03 \
-    vendor/lge/g3-common/proprietary/etc/firmware/keymaster.mdt:system/etc/firmware/keymaster.mdt \
     vendor/lge/g3-common/proprietary/etc/firmware/tqs.b00:system/etc/firmware/tqs.b00 \
     vendor/lge/g3-common/proprietary/etc/firmware/tqs.b01:system/etc/firmware/tqs.b01 \
     vendor/lge/g3-common/proprietary/etc/firmware/tqs.b02:system/etc/firmware/tqs.b02 \
@@ -234,11 +229,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/lge/g3-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lge/g3-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-    vendor/lge/g3-common/proprietary/vendor/firmware/widevine.b00:system/vendor/firmware/widevine.b00 \
-    vendor/lge/g3-common/proprietary/vendor/firmware/widevine.b01:system/vendor/firmware/widevine.b01 \
-    vendor/lge/g3-common/proprietary/vendor/firmware/widevine.b02:system/vendor/firmware/widevine.b02 \
-    vendor/lge/g3-common/proprietary/vendor/firmware/widevine.b03:system/vendor/firmware/widevine.b03 \
-    vendor/lge/g3-common/proprietary/vendor/firmware/widevine.mdt:system/vendor/firmware/widevine.mdt \
     vendor/lge/g3-common/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
