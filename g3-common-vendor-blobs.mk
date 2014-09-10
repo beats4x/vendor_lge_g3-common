@@ -194,6 +194,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+    vendor/lge/g3-common/proprietary/lib/soundfx/libqcomvisualizer.so:system/lib/soundfx/libqcomvisualizer.so \
+    vendor/lge/g3-common/proprietary/lib/soundfx/libqcomvoiceprocessing.so:system/lib/soundfx/libqcomvoiceprocessing.so \
     vendor/lge/g3-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/lge/g3-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/lge/g3-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
